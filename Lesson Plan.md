@@ -5,6 +5,7 @@ This collection is broken up into three sections: Basics, Advanced Data Structur
 ## Basics
 
 ### Lesson 1: Input / Output, Variables with Strings, Numbers, and Introduction to Booleans
+
 * Output with print()
 * Input with input()
 * Handling String variables:
@@ -19,6 +20,7 @@ This collection is broken up into three sections: Basics, Advanced Data Structur
 	* Conditional Operators - greater than, equal, less than or equal to, etc...
 
 ### Lesson 2: If statements, For loops
+
 * Review Math, Logical, Conditional Operators
   * Teach modulo operator
 * Using if statements
@@ -26,21 +28,34 @@ This collection is broken up into three sections: Basics, Advanced Data Structur
 * For loops to repeat code:
 	* Starting and ending at specific numbers
 	* Incrementing by numbers other than one
-* Creating lists
-* Getting elements
-	* Get last element with negative indexes
-* Adding to a list with append()
-* Iterating through a list with for loops
-* List Splicing / Slicing
-* Using Strings for everything you can use lists for
-* Splitting a string into a list
 
-### Lesson 3: Additional Functions and List applications
+
+### Lesson 3: Lists and more Strings
+
 * Fizzbuzz Interview Problem
+* Creating lists
+  * Getting elements
+  * Length of a list
+  * Get last element with negative indexes
+  * Adding to a list with append()
+  * Iterating through a list with for loops
+  * Finding if items are in lists
+  * List Splicing / Slicing
+  * map()
+  * Extending Lists
+* More Strings
+  * Using Strings like lists
+  * Splitting strings
+  * Replacing letters in strings
+
+
+### Lesson 4: Additional Functions and List applications
+
 * How to use the Python Documentation
-* Math Functions:
+* Math Module:
   * Maximum and minimums
-  * Rounding
+  * Rounding with Floor and Ceil
+  * Absolute values
 * Lists:
   * Sort a list using sorted()
   * Reverse a list using reversed()
@@ -48,7 +63,8 @@ This collection is broken up into three sections: Basics, Advanced Data Structur
   * List Comprehension
   * Nested Lists introduction
 
-### Lesson 4: Functions, Sets and Dictionaries
+### Lesson 5: Functions, Sets and Dictionaries
+
 * Creating your own function:
 	* Parameters, return values
 * Creating a dictionary'
