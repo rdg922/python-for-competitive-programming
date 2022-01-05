@@ -1,4 +1,4 @@
-# Sections
+# Lesson Plan
 
 This collection is broken up into three sections: Basics, Advanced Data Structures, and Algorithms. The first chapter must be done first, but the next two can  be done in any order as you see fit. 
 
@@ -29,7 +29,6 @@ This collection is broken up into three sections: Basics, Advanced Data Structur
 	* Starting and ending at specific numbers
 	* Incrementing by numbers other than one
 
-
 ### Lesson 3: Lists and more Strings
 
 * Fizzbuzz Interview Problem
@@ -41,7 +40,7 @@ This collection is broken up into three sections: Basics, Advanced Data Structur
   * Iterating through a list with for loops
   * Finding if items are in lists
   * List Splicing / Slicing
-  * map()
+  * Converting data types in a list wth map()
   * Extending Lists
 * More Strings
   * Using Strings like lists
@@ -54,7 +53,7 @@ This collection is broken up into three sections: Basics, Advanced Data Structur
 * How to use the Python Documentation
 * Math Module:
   * Maximum and minimums
-  * Rounding with Floor and Ceil
+  * Rounding with floor and ceil
   * Absolute values
 * Lists:
   * Sort a list using sorted()
@@ -70,4 +69,3 @@ This collection is broken up into three sections: Basics, Advanced Data Structur
 * Creating a dictionary'
 	* Write and read key / value pairs
 	* Iterate through keys / values
-
