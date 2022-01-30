@@ -23,8 +23,10 @@ Lessons are broken up into three files:
 If you are finding difficulty with any of the lessons and I have explained it to you, I encourage you to seek answers as much as possible. You may find answers by from popular sites:
 
 * StackOverflow: A very popular site that many professional programmers use to ask questions and find answers to common programming problems.
-* w3schools: There are very good python references if you look for them
-* Geeks4Geeks: Has many good references for most programming disciplines
+* [w3schools](https://www.w3schools.com/python): There are very good python references if you look for them
+* [Geeks4Geeks](https://www.geeksforgeeks.org/python-programming-language/): Has many good references for most programming disciplines
+
+
 
 The Python documentation website is pretty dense but is a really place as well
 
