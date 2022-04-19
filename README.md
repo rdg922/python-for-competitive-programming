@@ -6,38 +6,22 @@
 
 ### About the Repository
 
-This repository is where I host all the files I use to teach others programming
+This repository is where I host all the files I use to teach others programming, with a focus on the topics that one would use to compete in 
 
 ### About the Lessons
 
-These lessons use Jupyter notebook files to teach programming as interactively as possible. I use Google Colab to write these. 
+These lessons use Jupyter notebook files to teach programming as interactively as possible. I use Google Colab to write these and you may use Google Colab to run in your browser.
 
-Lessons are broken up into three files:
+Each lesson or reference has a button to open in Google Colab, click the button and make a copy to begin editing!
 
-* Templates: Code for learning, just without the solutions
-* Practice: Some sample problems for extra practice. These are just links to practice I think is appropriate for this stage
-* Reference: Answers for templates. If you're strapped for time and want a refresher, it also contains all the text
+Each lesson has practices labeled with solutions. Sometimes I'll include hints, but if you're ever too stuck try looking at the resources above and/or click 'show code' under the solution. You may also run the solution to see the intended way it should work.
 
 ### Outside Help:
 
-If you are finding difficulty with any of the lessons and I have explained it to you, I encourage you to seek answers as much as possible. You may find answers by from popular sites:
+If you are finding difficulty with any of the lessons explored, I encourage you to seek answers as much as possible outside of the lesson guide. You may find answers by from popular sites:
 
 * StackOverflow: A very popular site that many professional programmers use to ask questions and find answers to common programming problems.
 * [w3schools](https://www.w3schools.com/python): There are very good python references if you look for them
 * [Geeks4Geeks](https://www.geeksforgeeks.org/python-programming-language/): Has many good references for most programming disciplines
 
-
-
-The Python documentation website is pretty dense but is a really place as well
-
-The references are also available alongside the lessons but I recommend against using them as much as possible.
-
-### Using the materials: 
-
-Each lesson or reference has a button to open in Google Colab, click the button and make a copy to begin editing!
-
-For practice files, just click the links to be brought to the problem.
-
-## Lesson Plan:
-
-Read the lesson plan [here](Lesson&#32;Plan.md)
+The Python documentation website is pretty dense but is a good place to look as well.
